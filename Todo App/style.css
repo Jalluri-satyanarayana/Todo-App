@@ -1,0 +1,38 @@
+.App{
+    background-color:skyblue;
+}
+.content{
+    max-width: 400px;
+    margin: 20px auto;
+    background-color: #ffff;
+    padding: 20px;
+    box-shadow: 0px 2px 50px rgba(0,0,0,0.1);
+    border-radius: 2%;
+}
+h1{
+    text-align: center;
+}
+form{
+    margin-bottom: 10px;
+}
+input[type='text']{
+    width: 70%;
+    padding: 5px;
+    font-size: 16px;
+}
+button{
+    padding: 5px 10px;
+    background-color:#4caf50 ;
+    color: #fff;
+    border: none;
+    cursor: pointer;
+}
+.ul{
+    list-style-type: none;
+    padding: 0;
+}
+footer{
+    text-align: center;
+    position: relative;
+    top: 200px;
+}
